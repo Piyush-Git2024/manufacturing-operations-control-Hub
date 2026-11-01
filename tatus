@@ -1,0 +1,11 @@
+[33m60edb1f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Initial Manufacturing Operations Control Hub
+[33m4bdc578[m Initial Manufacturing Advisor release
+[33m8208d6d[m[33m ([m[1;33mtag: [m[1;33mv2.3[m[33m, [m[1;31morigin/realistic-factory-data[m[33m)[m Added historical analytics, executive summary and plant risk ranking
+[33m3652d0d[m[33m ([m[1;33mtag: [m[1;33mv2.2[m[33m)[m Added historical manufacturing analytics and executive risk summary
+[33m189443b[m Manufacturing Advisor Pega validated
+[33m39f3e52[m[33m ([m[1;33mtag: [m[1;33mv2.1[m[33m)[m Manufacturing Advisor Agent validated from Pega
+[33m4bb8604[m Align Manufacturing Advisor A2A with Credit Agent structure
+[33md817376[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m)[m Manufacturing Advisor A2A integration completed
+[33m2c412fb[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m Resolve merge conflict
+[33mae3e7cd[m Initial commit
+[33m453bb1e[m Manufacturing Advisor Agent V1 completed
