@@ -31,6 +31,7 @@ st.markdown("""
     font-size:42px;
     font-weight:700;
     color:#0F172A;
+        margin-top:25px;
 }
 
 .sub-title {
